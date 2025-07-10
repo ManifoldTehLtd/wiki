@@ -1,0 +1,78 @@
+---
+layout: default
+title: Odin1 Page 1
+nav_order: 1
+---
+
+# Odin1 Page 1
+
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+
+## Odin1 Page 1 child 1
+
+
+```yml
+title: Odin1
+description: Odin1 Description.
+```
+
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+TESTING.
+
+## Odin1 Page 1 child 2
+
+```yml
+# Specific to this theme
+site_author: Manifold Tech
+```
