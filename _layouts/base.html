@@ -28,7 +28,7 @@
 </head>
 
 <body class="wy-body-for-nav" role="document">
-
+  <div style="text-align: right; margin-top: 8px" id="translate">语言：</div>
   <div class="wy-grid-for-nav">
 
     {%- comment %} SIDE NAV, TOGGLES ON MOBILE {% endcomment %}
@@ -86,6 +86,13 @@
     window.addEventListener('load', function() {
       SphinxRtdTheme.Navigation.enable({{ site.sticky_navigation | default: 'false' }});
     });
+  </script>
+  <script src="https://res.zvo.cn/translate/translate.js"></script>
+  <script>
+    translate.setUseVersion2();
+    translate.language.setLocal('chinese_simplified');
+    translate.listener.start();
+    translate.execute();
   </script>
   <!-- Build Date: {{ site.time | date: "%Y-%m-%d %H:%M" }} -->
 </body>
