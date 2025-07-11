@@ -1,6 +1,6 @@
 title: Read The Docs Jekyll Theme
 description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
-remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: ManifoldTehLtd/wiki
 
 # Theme settings:
 site_author: Manifold Tech
@@ -11,3 +11,6 @@ sticky_navigation: true
 prev_next_buttons_location: bottom
 search_enabled: true
 hljs_style: github-gist
+
+plugins:
+  - jekyll-remote-theme

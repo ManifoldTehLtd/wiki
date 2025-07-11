@@ -5,7 +5,7 @@
 # Changes have been made to adapt it for this project.
 
 layout: default
-title: Pocket Page 2
+title: Pocket 第二页
 excerpt: A sample description for SEO.
 nav_order: 2
 ---
@@ -18,7 +18,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Pocket Page 2
+# Pocket 第二页
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
