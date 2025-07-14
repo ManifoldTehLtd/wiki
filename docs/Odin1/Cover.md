@@ -1,3 +1,9 @@
+---
+layout: default
+title: Odin1 用户手册
+nav_order: 1
+---
+
 Odin1 用户手册
 
 版本号：v0.1

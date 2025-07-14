@@ -1,3 +1,9 @@
+---
+layout: default
+title: 阅读提示
+nav_order: 2
+---
+
 # 阅读提示
 
 ## 符号说明
