@@ -18,5 +18,5 @@ nav_order: 2
 
 * 开发者支持
   
-  Odin ROS Driver下载链接：https://github.com/manifoldsdk/odin\_ros\_driver
+  Odin ROS Driver下载链接：[odin\_ros\_driver](https://github.com/manifoldsdk/odin\_ros\_driver)
 
