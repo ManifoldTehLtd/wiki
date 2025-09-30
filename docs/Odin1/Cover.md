@@ -9,6 +9,7 @@ nav_order: 1
 版本号：v0.1
 
 发布日期：2025.7
+修改日期：2025.9
 
 ![](assets/img/odin1guide.png)
 
